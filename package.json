@@ -1,0 +1,29 @@
+{
+  "name": "epharmacist",
+  "version": "1.0.1",
+  "description": "The application ensure  that the medicines prescribed to patients are suitable and advise patients about  medicines, including how  to take them, what reactions may occur, and  answer patients' questions. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarlepcha/DevOpPractical.git"
+  },
+  "author": "MR. Sagar Lepcha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarlepcha/DevOpPractical/issues"
+  },
+  "homepage": "https://github.com/sagarlepcha/DevOpPractical#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1",
+    "validator": "^13.15.15"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
