@@ -1,7 +1,10 @@
-# README
-This project aim to right product, with incremental and frequent
-delivery of small chunks of functionality, through small
-cross-functional self-organizing teams, enabling frequent customer
-feedback and course correction as needed.
-1. Scrum methodology
-1. Constant customer feedback
+#README
+This project aim to develop a AI Machine Learning  Web Learning  Web application that is able to predict the type of Iris Flower
+
+
+1. Sepal Length
+2. Sepal Width
+3. Petal Length
+4. Petal Width
+
+The type of flowers are virginia , setosa and versicolor
